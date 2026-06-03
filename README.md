@@ -1,5 +1,3 @@
-# STUDENT---CGPA---CALCULATOR
-CGPA Calculator Web App
 <!DOCTYPE html>
 <html lang="en">
 <head>
